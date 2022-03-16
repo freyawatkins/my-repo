@@ -1,4 +1,4 @@
 # my-repo
 Test repository
 
-Oh Github is confusing!
+GitHub is easy actually
